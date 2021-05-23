@@ -1,0 +1,9 @@
+.col {
+    padding: 5px;
+}
+
+.card-title:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
